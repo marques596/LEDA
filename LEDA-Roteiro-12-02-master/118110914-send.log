@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-23T14:27:48.755-0300</date>
+  <logger>MAURICIO MARQUES DA SILVA MONTE</logger>
+  <level>FINE</level>
+  <message>File 118110914-MAURICIO MARQUES DA SILVA MONTE.zip was received. It was sent by MAURICIO MARQUES DA SILVA MONTE from IP 150.165.42.192 at 23-05-2019 14*27*48</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-23T16:00:28.885-0300</date>
+  <logger>MAURICIO MARQUES DA SILVA MONTE</logger>
+  <level>FINE</level>
+  <message>File 118110914-MAURICIO MARQUES DA SILVA MONTE.zip was received. It was sent by MAURICIO MARQUES DA SILVA MONTE from IP 192.168.0.173 at 23-05-2019 16*00*28</message>
+</record>
